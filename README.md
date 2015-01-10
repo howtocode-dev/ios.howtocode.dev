@@ -4,7 +4,8 @@
 
 # iOS অ্যাপ ও গেম ডেভেলপমেন্ট
 
-### [নুহিল মেহেদী](http://nuhil.net), [উজ্জ্বল সূত্র ধর](http://ujjalruet.wordpress.com/)
+<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="http://api.howtocode.com.bd/contrib/ios"></iframe> 
+
 
 বাংলায় অবজেক্টিভ-সি, সুইফ্ট এবং আইওএস অ্যাপ ও গেম ডেভেলপমেন্ট শেখার জন্য উপযুক্ত একটি কোর্স
 
