@@ -15,6 +15,4 @@
 
 এটি মূলত একটি [গিটহাব রিপোজিটোরি](https://github.com/howtocode-com-bd/ios.howtocode.com.bd)  যেখানে এই বইয়ের আর্টিকেল গুলো মার্কডাউন ফরম্যাটে লেখা হচ্ছে । রিপোজটরিটি ফর্ক করে পুল রিকুয়েস্ট পাঠানোর মাধ্যমে আপনারাও অবদান রাখতে পারেন ।
 
-বইটির একটি প্রিন্ট ভার্সন খুব শীঘ্রই প্রকাশিত হবে যেখানে আরও বিস্তারিত আলোচনা এবং সাথে ভিডিও টিউটোরিয়াল এর ডিভিডি থাকবে । বইয়ের আপডেট পেতে লাইক দিয়ে রাখতে পারেন ফেসবুক [ফ্যানপেজে](https://www.facebook.com/bangla.objc.swift.ios)
-
 <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fios.howtocode.com.bd&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
