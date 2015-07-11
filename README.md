@@ -1,4 +1,4 @@
-<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="http://www.howtocode.com.bd/like.html"></iframe> 
+<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%;" allowTransparency="true" src="http://www.howtocode.com.bd/like.html"></iframe> 
 
 [কোর্স এর মুল পাতা](http://ios.howtocode.com.bd/) | [HowToCode মুল সাইট](http://www.howtocode.com.bd/) | [সবার জন্য প্রোগ্রামিং ব্লগ](http://blog.howtocode.com.bd/) | [পিডিএফ ডাউনলোড](https://www.gitbook.com/download/pdf/book/howtocode-com-bd/-ios)    
 
