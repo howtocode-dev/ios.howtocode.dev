@@ -8,15 +8,6 @@
 
 <iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="http://www.howtocode.com.bd/contributions.html?repo=ios"></iframe>   
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Test -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-5833437409383488"
-     data-ad-slot="7548057087"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 বাংলায় অবজেক্টিভ-সি, সুইফ্ট এবং আইওএস অ্যাপ ও গেম ডেভেলপমেন্ট শেখার জন্য উপযুক্ত একটি কোর্স
 
