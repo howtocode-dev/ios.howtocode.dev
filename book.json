@@ -1,16 +1,10 @@
 {
 	"gitbook": "2.x.x",
-	"plugins": ["disqus", "adsense"],
+	"plugins": ["disqus"],
 	"pluginsConfig": {
 		"disqus": {
 			"shortName": "howtocode-com-bd"
-		},
-		"adsense": {
-			"client": "pub-5833437409383488",
-			"slot": "9344412000",
-			"format": "auto",
-				"element": ".page-inner section"
-		}		
+		}
 	},
 	"links": {
 		"sidebar": {
